@@ -1,0 +1,14 @@
+venv
+samples
+temp
+xtb
+__pycache__
+*.h5
+results
+/unified/datasets
+/datasource/original
+/datasource/all_sampled_ions
+/datasource/sampled_ions
+temp
+generated_ions
+.env
